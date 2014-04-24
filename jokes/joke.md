@@ -1,7 +1,9 @@
 # Maker Jokes
 
-* How many programmers does it take to change a light bulb? <!-- None! It's a hardware problem -->
-* What is the coldest HTML tag? <!-- <br /> -->
+* How many programmers does it take to change a light bulb? 
+<!-- None! It's a hardware problem -->
+* What is the coldest HTML tag? 
+<!-- <br /> -->
 * Why do programmers often confuse Christmas and Halloween? <!-- Because OCT 31 == DEC 25 -->
 * How do you comfort a JavaScript bug? <!--You console it-->
 * Why did the function get away with murder? <!-- Because it was anonymous -->
